@@ -1,0 +1,40 @@
+#!/bin/bash
+
+
+# 1. The echo command takes a line that you type and repeats it back on the screen. 
+# Use it with any text you want and redirect the output to a file named myFile.
+echo Hello World\!\!
+
+# 2. Use the echo command to input 5 more lines and append them to file myFile, 
+# which will contain a total of 6 lines of text.
+echo Bon
+echo jour
+echo sal
+echo ute
+echo This is really annoying
+
+# 3. Append to file myFile the output of the following commands: who, whoami, and date.
+gbemi    :0           2020-05-14 00:28 (:0)
+gbemi
+Fri May 15 23:31:54 EDT 2020
+
+# 4. Create a set of text files and name them backgammon, backpacking, baseball,
+#  boxing, biking, chess, fencing, blackjack, groupA, groupB, groupX, groupY.
+
+#for i in {chess fencing blackjack groupA groupB groupX groupY}
+#do
+#	touch $i > ./lab1
+#done
+
+# a. How would you use cat to show the contents of the files ending in ing?
+cat *ing
+# but if I want to list the files not their context this is the code
+# ls | cat *ing
+
+# b. How would you list any files containing x or X in the file names?
+ls *[xX]*
+
+# c. How would you show the contents of files with names contain
+
+# d. How would you show the contents of the files backgammon, backpacking
+#  and blackjack using just one command?

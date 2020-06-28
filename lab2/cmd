@@ -1,0 +1,97 @@
+#! /bin/sh
+
+# scp -r lab2 gbemim@red.eecs.yorku.ca://eecs/home/gbemim/eecs2031
+# 1. Using this phone book, do the following by issuing one command only:
+# a. Display entries of people whose names contain the substring “alex”, case-insensitive.
+#  (The output should be the entries of alex johnson and Alexander Smith.)
+grep -i alex pb1.txt
+
+# b. Display entries of people whose phone number ends in 2. 
+grep "\-[0-9]\{3\}2" pb1.txt
+
+# c. Display only the names of people whose phone number does not contain the number 3.
+grep -v '3' pb1.txt | grep -o '^[^\(]*'
+
+# d. List all area codes in the phone book sorted numerically
+#grep -o "([0-9]*)" pb1.txt | sort -n
+grep -o "([0-9]*)" pb1.txt | grep -o "[0-9]\{3\}" | sort -n
+
+# e. List the names of contacts in the 905 area code
+grep "905" pb1.txt | grep -o '^[^\(]*'
+
+
+# 2. Suppose myFile is in your working directory.
+# Specify the command(s) you would use to do the following:
+
+# 000 	0 	- - -
+# 001 	1 	- - x
+# 010 	2 	- w -
+# 011 	3 	- w x
+# 100 	4 	r - -
+# 101 	5 	r - x
+# 110 	6 	r w -
+# 111 	7 	r w x
+# 001 	1 	- - x
+# 010 	2 	- w -
+# 011 	3 	- w x
+# 100 	4 	r - -
+# 101 	5 	r - x
+# 110 	6 	r w -
+# 111 	7 	r w x
+
+# a.Give everyone permission to read myFile; do not change any other privileges.
+chmod a=r myFile.txt
+
+# b. Permit the owner (you) and group members to read and write the file;
+# remove all privileges from everyone else.
+chmod 660 myFile.txt
+
+# c. Remove writing privileges from everyone but the owner.
+chmod 700 myFile.txt
+
+# d. Give the owner and group members permission to execute myFile,
+# while giving the owner sole permission to read and write the file.
+chmod 710 myFile.txt
+
+
+# 3. Suppose you have a directory named myStuff in your working directory.
+# Specify the command(s) you would use to do the following:
+# cd folder/directory = access to execute
+# list files in a folder/directory = read the folder/directory
+
+# a. Give everyone permission to list files in myStuff; do not change any other privileges.
+chmod a=r myStuff
+
+# b. Permit the owner and group members to list, remove, or add files;
+# remove all privileges from everyone else.
+chmod 770 myStuff
+
+# c. Remove writing privileges from everyone but the owner.
+chmod go-w myStuff
+
+# d. Give the owner and group members permission to execute myStuff,
+# while giving the owner sole permission to read and write the directory.
+chmod 710 myStuff
+
+
+# 4. Perform the following tasks. If you have less than 10 .txt files in your account,
+# create some empty ones using the touch command
+# a. List the number of .txt files in your home directory (including any subdirectories)
+find ~ -name "*.txt" | wc -l
+
+# b. List any 10 of the above files, each file preceded by the number of lines in it
+find ~ -name "*.txt" | head | xargs wc -l
+
+# c. List all empty .txt files in your home directory (including any subdirectories)
+find ~ -name "*.txt" -empty
+
+# d. List all files that were modified in the last day in your home directory
+# (including any subdirectories)
+#find ~ -mtime -1 -name "*.txt"
+find ~ -mtime 1 -name "*.txt"
+
+
+
+
+
+
