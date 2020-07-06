@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BashSupportProjectSettings">
+    <option name="formatterEnabled" value="true" />
+    <option name="globalVariables">
+      <set>
+        <option value="com" />
+        <option value="command" />
+        <option value="fil" />
+        <option value="fille" />
+        <option value="ne" />
+        <option value="te" />
+      </set>
+    </option>
+  </component>
+</project>

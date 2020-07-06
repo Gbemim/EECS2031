@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="74826e9f-6713-4591-b127-d58e36f711e5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/lab1/test.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/retake/again.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/retake/labtest1_makeup_again.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/retake/te" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Midterm/java.rec" beforeDir="false" afterPath="$PROJECT_DIR$/retake/java.rec" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Midterm/os.rec" beforeDir="false" afterPath="$PROJECT_DIR$/retake/os.rec" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Midterm/signals.rec" beforeDir="false" afterPath="$PROJECT_DIR$/retake/signals.rec" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab3/os" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4/java.rec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4/os.rec" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <excluded-from-favorite>
+      <branch-storage>
+        <map>
+          <entry type="REMOTE">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="origin/master" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </excluded-from-favorite>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="e0e5gmq7" />
+  </component>
+  <component name="NamedScopeManager">
+    <scope name="Unnamed" pattern="file[labs]:lab2/*" />
+  </component>
+  <component name="ProjectId" id="1cSudhqaQ6KLRvpJXR9agIpmS6i" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Derby&#10;Bash" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/ShellScriptExamples" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/ShellScriptExamples" />
+      <recent name="$PROJECT_DIR$/retake" />
+      <recent name="$PROJECT_DIR$/lab4" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/retake" />
+      <recent name="$PROJECT_DIR$/ShellScriptExamples" />
+      <recent name="$PROJECT_DIR$/Midterm" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/lab4" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="lab44.sh" type="BashConfigurationType" factoryName="Bash" temporary="true">
+      <module name="labs" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="INTERPRETER_PATH" value="/bin/sh" />
+      <option name="PROJECT_INTERPRETER" value="false" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lab4" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lab4/lab44.sh" />
+      <option name="PARAMETERS" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Bash.lab44.sh" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="74826e9f-6713-4591-b127-d58e36f711e5" name="Default Changelist" comment="" />
+      <created>1590534404686</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590534404686</updated>
+      <workItem from="1590534409203" duration="150000" />
+      <workItem from="1590534747866" duration="1864000" />
+      <workItem from="1590567363604" duration="9660000" />
+      <workItem from="1590605100160" duration="416000" />
+      <workItem from="1590605570979" duration="56000" />
+      <workItem from="1590609055752" duration="82000" />
+      <workItem from="1590609162905" duration="1610000" />
+      <workItem from="1590611107203" duration="1072000" />
+      <workItem from="1590620653561" duration="4000" />
+      <workItem from="1590802161286" duration="244000" />
+      <workItem from="1590802425774" duration="12751000" />
+      <workItem from="1590876218950" duration="602000" />
+      <workItem from="1591062676935" duration="7000" />
+      <workItem from="1591062717493" duration="213000" />
+      <workItem from="1591062955807" duration="3664000" />
+      <workItem from="1591104693422" duration="1888000" />
+      <workItem from="1591106603180" duration="13770000" />
+      <workItem from="1591144836159" duration="9803000" />
+      <workItem from="1591156878821" duration="66000" />
+      <workItem from="1591214233643" duration="973000" />
+      <workItem from="1591564591926" duration="2631000" />
+      <workItem from="1591567568238" duration="12169000" />
+      <workItem from="1591618142476" duration="16939000" />
+      <workItem from="1591655516449" duration="639000" />
+      <workItem from="1591744443471" duration="973000" />
+      <workItem from="1591749443728" duration="164000" />
+      <workItem from="1591749669068" duration="901000" />
+      <workItem from="1591818707856" duration="835000" />
+      <workItem from="1592312201534" duration="3140000" />
+      <workItem from="1592334029666" duration="11765000" />
+      <workItem from="1592406746792" duration="12744000" />
+      <workItem from="1592432414228" duration="4670000" />
+      <workItem from="1592437151561" duration="4297000" />
+      <workItem from="1592615633696" duration="780000" />
+      <workItem from="1592910176296" duration="16417000" />
+      <workItem from="1592936458877" duration="15000000" />
+      <workItem from="1593370043433" duration="1014000" />
+      <workItem from="1593374868244" duration="691000" />
+      <workItem from="1593459142657" duration="78000" />
+      <workItem from="1593459278497" duration="6720000" />
+      <workItem from="1593599575122" duration="11690000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/lab5" />
+    </ignored-roots>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="505" y="216" width="1215" height="678" key="#Grep_Console" timestamp="1591064230497">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="505" y="216" width="1215" height="678" key="#Grep_Console/0.30.1920.1050@0.30.1920.1050" timestamp="1591064230497" />
+    <state x="1300" y="393" width="259" height="325" key="#Notifications" timestamp="1593385767829">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="1300" y="393" width="259" height="325" key="#Notifications/0.30.1920.1050@0.30.1920.1050" timestamp="1593385767829" />
+    <state x="238" y="193" width="800" height="713" key="#Plugins" timestamp="1592312293214">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="238" y="193" width="800" height="713" key="#Plugins/0.30.1920.1050@0.30.1920.1050" timestamp="1592312293214" />
+    <state x="836" y="213" width="800" height="678" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1591112624889">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="836" y="213" width="800" height="678" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.30.1920.1050@0.30.1920.1050" timestamp="1591112624889" />
+    <state x="597" y="465" width="605" height="401" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1591576716115">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="597" y="465" width="605" height="401" key="#com.intellij.fileTypes.FileTypeChooser/0.30.1920.1050@0.30.1920.1050" timestamp="1591576716115" />
+    <state x="1218" y="313" width="424" height="485" key="FileChooserDialogImpl" timestamp="1590820268666">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="1218" y="313" width="424" height="485" key="FileChooserDialogImpl/0.30.1920.1050@0.30.1920.1050" timestamp="1590820268666" />
+    <state x="739" y="475" width="442" height="161" key="Github.CreateGistDialog" timestamp="1593370973032">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="739" y="475" width="442" height="161" key="Github.CreateGistDialog/0.30.1920.1050@0.30.1920.1050" timestamp="1593370973032" />
+    <state width="1874" height="267" key="GridCell.Tab.0.bottom" timestamp="1592361952657">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state width="1874" height="267" key="GridCell.Tab.0.bottom/0.30.1920.1050@0.30.1920.1050" timestamp="1592361952657" />
+    <state width="1874" height="267" key="GridCell.Tab.0.center" timestamp="1592361952656">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state width="1874" height="267" key="GridCell.Tab.0.center/0.30.1920.1050@0.30.1920.1050" timestamp="1592361952656" />
+    <state width="1874" height="267" key="GridCell.Tab.0.left" timestamp="1592361952656">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state width="1874" height="267" key="GridCell.Tab.0.left/0.30.1920.1050@0.30.1920.1050" timestamp="1592361952656" />
+    <state width="1874" height="267" key="GridCell.Tab.0.right" timestamp="1592361952657">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state width="1874" height="267" key="GridCell.Tab.0.right/0.30.1920.1050@0.30.1920.1050" timestamp="1592361952657" />
+    <state x="456" y="136" width="1037" height="731" key="SettingsEditor" timestamp="1593459216908">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="456" y="136" width="1037" height="731" key="SettingsEditor/0.30.1920.1050@0.30.1920.1050" timestamp="1593459216908" />
+    <state x="1210" y="173" width="440" height="766" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1590568324755">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="1210" y="173" width="440" height="766" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.30.1920.1050@0.30.1920.1050" timestamp="1590568324755" />
+    <state x="1099" y="254" key="run.anything.popup" timestamp="1591153478809">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="1099" y="254" key="run.anything.popup/0.30.1920.1050@0.30.1920.1050" timestamp="1591153478809" />
+    <state x="750" y="417" width="523" height="400" key="scopes" timestamp="1590611352745">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="750" y="417" width="523" height="400" key="scopes/0.30.1920.1050@0.30.1920.1050" timestamp="1590611352745" />
+    <state x="1098" y="261" width="672" height="678" key="search.everywhere.popup" timestamp="1591121085430">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="1098" y="261" width="672" height="678" key="search.everywhere.popup/0.30.1920.1050@0.30.1920.1050" timestamp="1591121085430" />
+  </component>
+</project>
