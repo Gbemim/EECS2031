@@ -110,11 +110,8 @@ else
     case $2 in
         h) printf "$help \n" ;;
 
-        creg) `${course} > te`
-            printf "`cat te | head -1` \n" ;;
+        creg) printf "$course \n" ;;
     esac
-    rm -f te
-
     a="$3"
     num=${#a}
     if [ $num -eq "6" ] && [ "$2" = "stc" ]; then
@@ -137,7 +134,7 @@ else
         case $2 in
             stc) printf "The student id should be 6 numbers. \n" ;;
         esac
-    else printf "The student id should be 6 numbers. \n"
-        exit 1
+        else printf "The student id should be 6 numbers. \n"
+            exit 1
     fi
 fi
