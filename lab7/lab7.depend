@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1594743061 source:/home/gbemi/Documents/School/EECS/2031/labs/lab7/main.c
+	<stdio.h>
+
+1594741883 source:/home/gbemi/Documents/School/EECS/2031/labs/lab7/util.c
+
+1594826429 source:/home/gbemi/Documents/School/EECS/2031/labs/lab7/lab7b.c
+	<stdio.h>
+	<string.h>
+
