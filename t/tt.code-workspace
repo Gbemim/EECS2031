@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "../testrun"
+		},
+		{
+			"path": "../CExamples"
+		},
+		{
+			"path": "../lab10"
+		},
+		{
+			"path": "../lab9"
+		}
+	],
+	"settings": {}
+}

@@ -1,11 +1,12 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-main() {
+int main() {
   struct list {
     int data;
     struct list *next;
-  } *head, *p, *last;
+  } 
+  *head, *p, *last;
   int i;
 
   /* Create a dummy node, which 
