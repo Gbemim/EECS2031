@@ -182,7 +182,7 @@ int removeLast( struct extendableArray **a )
     else
     {
         // set the result from the back of the array
-        result = (*a)->arr[(*a)->size-1];
+        result = (*a)->arr[(*a)->size];
 
         // decrease the size of the array
         (*a)->size--;
