@@ -1,9 +1,5 @@
 #!/bin/sh
 
-# Gbemisola Akerele
-# 216167041
-
-
 file=`find "$1" -type f -name "*.rec" -perm /444 2> /dev/null`
 
 input=`printf "You should enter the path name for course files and at least one command.

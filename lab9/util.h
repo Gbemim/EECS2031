@@ -1,12 +1,3 @@
-/***********************************
-* EECS 2031 - Lab 9
-* Filename: util.h
-* Author: Akerele, Gbemisola
-* Email: gbemim@my.y0rku.ca
-* Login ID: 216167041
-************************************/
-
-
 /* Add your implementation here */
 #ifndef UTIL_H
 #define UTIL_H

@@ -1,6 +1,5 @@
 #! /bin/sh
 
-# scp -r lab2 gbemim@red.eecs.yorku.ca://eecs/home/gbemim/eecs2031
 # 1. Using this phone book, do the following by issuing one command only:
 # a. Display entries of people whose names contain the substring “alex”, case-insensitive.
 #  (The output should be the entries of alex johnson and Alexander Smith.)

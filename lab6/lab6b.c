@@ -1,13 +1,6 @@
 #include <stdio.h>
 #include <string.h> 
 
-// ECS2031 – Lab 6
-// Filename: lab6b.c
-// Author: Akerele, Gbemisola
-// Email: gbemim@my.yorku.ca
-// EECS login ID: 216167041
-
-
 int main() {
 	
 	int count;

@@ -1,8 +1,5 @@
 #!/bin/sh
 
-# Gbemisola Akerele 216167041
-
-
 # $1: the path
 
 inp="command: "

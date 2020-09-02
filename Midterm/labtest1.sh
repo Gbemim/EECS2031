@@ -1,8 +1,5 @@
 #!/bin/sh
 
-# Gbemisola Akerele 216167041
-
-
 tmp="./tmp"
 listOfComm=`echo "Here are defined commands:
 creg: give the list of course names with the total number of students registered in each course.

@@ -1,12 +1,3 @@
-/***********************************
-* EECS 2031 - Lab 9
-* Filename: util.c
-* Author: Akerele, Gbemisola
-* Email: gbemim@my.y0rku.ca
-* Login ID: 216167041
-************************************/
-
-
 #include <stdio.h>
 #include <stdlib.h>
 

@@ -1,14 +1,6 @@
 #include <stdio.h>
 #include "util.h"
 
-/***************************************
-* EECS2031 – Lab 7
-* Filename: lab7b.c
-* Author: Akerele, Gbemisola
-* Email: gbemim@my.yorku.ca
-* EECS login ID: 216167041
-****************************************/
-
 int main()
 {
 

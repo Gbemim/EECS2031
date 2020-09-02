@@ -1,15 +1,6 @@
 #include "util.h"
 #include <stdio.h>
 
-
-/***************************************
-* EECS2031 – Lab 7
-* Filename: util.c
-* Author: Akerele, Gbemisola
-* Email: gbemim@my.yorku.ca
-* EECS login ID: 216167041
-****************************************/
-
 int count;
 int length;
 char input[100];

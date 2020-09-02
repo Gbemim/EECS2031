@@ -1,12 +1,5 @@
 #include <stdio.h>
 
-// ECS2031 – Lab 6
-// Filename: lab6a.c
-// Author: Akerele, Gbemisola
-// Email: gbemim@my.yorku.ca
-// EECS login ID: 216167041
-
-
 float main()
 {
 	float input;

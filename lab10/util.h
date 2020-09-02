@@ -1,11 +1,3 @@
-/***********************************
-* EECS 2031 - Lab 10
-* Filename: lab10.c
-* Author: Akerele, Gbemisola
-* Email: gbemim@my.yorku.ca
-* Login ID: 216167041
-************************************/
-
  /*************************
      implement some codes
   *************************/

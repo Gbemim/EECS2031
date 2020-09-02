@@ -1,11 +1,5 @@
 #!/bin/sh
 
-# Gbemisola Akerele
-# 216167041
-
-#!/bin/sh
-
-# Gbemisola Akerele 216167041
 
 
 file=`find "$1" -type f -name "*.rec" -perm /444`

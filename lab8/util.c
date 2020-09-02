@@ -2,14 +2,6 @@
 #include <math.h>
 #include <stdlib.h>
 
-/***************************************
-* EECS2031 – Lab 8
-* Filename: util.c
-* Author: Akerele, Gbemisola
-* Email: gbemim@my.yorku.ca
-* EECS login ID: 216167041
-****************************************/
-
 
 // get a line of characters, skips the new line character
 int getaline(char s[],int lim)
